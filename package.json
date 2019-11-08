@@ -1,0 +1,17 @@
+{
+	"name": "prisma2-dev",
+	"private": true,
+  "license": "Apache-2.0",
+  "workspaces": [
+	  "lift",
+	  "photonjs/packages/*",
+	  "prisma2/cli/*"
+	],
+	"dependencies": {
+		"chalk": "^2.4.2",
+		"execa": "^3.2.0",
+		"lerna": "^3.18.3",
+		"ts-node": "^8.4.1",
+		"typescript": "^3.7.2"
+	}
+}

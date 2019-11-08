@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+      "editorconfig.editorconfig",
+			"esbenp.prettier-vscode",
+			"prisma.prisma"
+		]
+  },
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib"
+  }
+}
